@@ -1,0 +1,8 @@
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\bin\Debug\netcoreapp1.1\HashTable.deps.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\bin\Debug\netcoreapp1.1\HashTable.runtimeconfig.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\bin\Debug\netcoreapp1.1\HashTable.runtimeconfig.dev.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\bin\Debug\netcoreapp1.1\HashTable.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\bin\Debug\netcoreapp1.1\HashTable.pdb
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\obj\Debug\netcoreapp1.1\HashTable.AssemblyInfo.cs
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\obj\Debug\netcoreapp1.1\HashTable.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\HashTable\obj\Debug\netcoreapp1.1\HashTable.pdb
