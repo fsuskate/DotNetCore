@@ -1,0 +1,8 @@
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\bin\Debug\netcoreapp1.1\Lists.deps.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\bin\Debug\netcoreapp1.1\Lists.runtimeconfig.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\bin\Debug\netcoreapp1.1\Lists.runtimeconfig.dev.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\obj\Debug\netcoreapp1.1\Lists.AssemblyInfo.cs
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\bin\Debug\netcoreapp1.1\Lists.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\bin\Debug\netcoreapp1.1\Lists.pdb
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\obj\Debug\netcoreapp1.1\Lists.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\Lists\obj\Debug\netcoreapp1.1\Lists.pdb
