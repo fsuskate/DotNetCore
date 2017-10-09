@@ -1,0 +1,8 @@
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\bin\Debug\netcoreapp1.1\BinaryTree.deps.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\bin\Debug\netcoreapp1.1\BinaryTree.runtimeconfig.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\bin\Debug\netcoreapp1.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\bin\Debug\netcoreapp1.1\BinaryTree.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\bin\Debug\netcoreapp1.1\BinaryTree.pdb
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\obj\Debug\netcoreapp1.1\BinaryTree.AssemblyInfo.cs
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\obj\Debug\netcoreapp1.1\BinaryTree.dll
+C:\Users\francis_surroca\Documents\Projects\DotNetCore\BinaryTree\obj\Debug\netcoreapp1.1\BinaryTree.pdb
